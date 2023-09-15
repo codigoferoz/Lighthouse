@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/QaEhQsX.png" alt="Project logo"></a>
+ <img width=400px height=200px src="https://i.imgur.com/QaEhQsX.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">LIGHTHOUSE</h3>
@@ -108,6 +108,27 @@ You can now run the generated `.exe` file in the "dist" folder to execute your P
 Note: Depending on the complexity of your program and the libraries you use, you may need to adjust PyInstaller's configuration to include all necessary dependencies in the executable file. You can refer to the PyInstaller documentation for detailed information on additional configuration options if needed.
 
 Keep in mind that the process of converting to an executable may make the resulting file larger, as it will include all the necessary libraries to run the program independently.
+
+### Views
+
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=400px height=200px src="https://i.imgur.com/7n5cNEu.png" alt="Views"></a>
+</p>
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=400px height=200px src="https://i.imgur.com/Z400DIi.png" alt="Views"></a>
+</p>
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=400px height=200px src="https://i.imgur.com/5fr4ZE2.png" alt="Views"></a>
+</p>
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/h88fdKP.png" alt="Views"></a>
+</p>
+
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
