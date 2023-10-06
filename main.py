@@ -551,7 +551,7 @@ menubar.add_cascade(label="UTILIDADES", menu=filemenu)
 menubar.add_cascade(label="ADMINISTRACIÓN", menu=editmenu)
 menubar.add_cascade(label="AYUDA", menu=helpmenu)
             
-display_screen.title("SISTEMA MP - IMRC MANTENIMIENTO PROGRAMADO v02.00.00")
+display_screen.title("LIGHTHOUSE - SISTEMA DE GESTION DE MANTENIMIENTO PROGRAMADO v02.00.00")
 display_screen.state("zoomed")
 
 #-------------------VARIABLES-----------------------
